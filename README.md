@@ -14,5 +14,5 @@ From the explanation above, we conclude some questions:
 As a **data analyst**, we will try to answer the question above.
 # Objective
 Our objective are:
-1. Examine country and city that meet criterias.
-2. Examine city and products that have most customers in the country.
+1. Examine country that meet criterias.
+2. Examine products that have most customers in the region.
